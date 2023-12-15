@@ -1,0 +1,14 @@
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\bin\Debug\net8.0\ClassPratice.exe
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\bin\Debug\net8.0\ClassPratice.deps.json
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\bin\Debug\net8.0\ClassPratice.runtimeconfig.json
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\bin\Debug\net8.0\ClassPratice.dll
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\bin\Debug\net8.0\ClassPratice.pdb
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.AssemblyInfoInputs.cache
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.AssemblyInfo.cs
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.csproj.CoreCompileInputs.cache
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.dll
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\refint\ClassPratice.dll
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.pdb
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ClassPratice.genruntimeconfig.cache
+C:\Users\JonFr\source\repos\ClassPratice\ClassPratice\obj\Debug\net8.0\ref\ClassPratice.dll
